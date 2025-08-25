@@ -1,4 +1,5 @@
 # first-github
-first pltw
-#title 
-#subtitle
+**name**:[jermainecherry]
+**class**:[pltwcomputerscience]
+**date**:[08/25/25]
+
